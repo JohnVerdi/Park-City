@@ -1,0 +1,19 @@
+/*!
+	Theme Name: WPL TwentyEight Child Theme
+	Theme URI: http://wpl.realtyna.info
+	Description: Child template of WPL TwentyEight template created by Realtyna Inc
+	Author: Realtyna Inc
+	Author URI: http://wpl.realtyna.com/
+	Template:     wpl_twentyeight
+	Version: 1.0
+*/
+@import url("../wpl_twentyeight/style.css");
+.grid_box .disclaimer p{
+   padding: 5px 10px 5px;
+}
+.row_box .disclaimer p{
+   padding: 5px 0 5px;
+}
+.wpl-28-header-wp:before, .wpl-28-header-wp:after{
+  display: none;
+}
